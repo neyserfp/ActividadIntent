@@ -79,8 +79,9 @@ public class MainActivity extends AppCompatActivity {
         miintent.putExtra("resultado",resultado);
         startActivity(miintent);
 
-
     }
+
+
 
 
 }
